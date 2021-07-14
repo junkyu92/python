@@ -1,0 +1,7 @@
+money = int(input("받은 돈: "))
+total = int(input("상품의 총액: "))
+print("-------------------------")
+print("받은 돈:", money)
+print("상품의 총액:", total)
+print("부가세:", total * 0.1)
+print("잔돈:", money - total)

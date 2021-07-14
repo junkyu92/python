@@ -1,0 +1,8 @@
+num1 = int(input("숫자1: "))
+num2 = int(input("숫자2: "))
+print("--------------------")
+print("두 수의 합은 ", num1 + num2)
+print("두 수의 차는 ", num1 - num2)
+print("두 수의 곱은 ", num1 * num2)
+print("두 수의 나눗셈은 ", num1 / num2)
+print("두 수의 나머지는 ", num1 % num2)
